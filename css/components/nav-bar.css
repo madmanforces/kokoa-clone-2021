@@ -21,15 +21,6 @@ a{
     color: #2e343e;
 }
 .nav__notification {
-    background-color: red;
-    width: 30px;
-    height: 30px;
-    border-radius: 15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-weight: 600;
     position: absolute;
     left: 15px;
     bottom: 13px;
